@@ -1,0 +1,11 @@
+{
+  "name": "node_http",
+  "version": "1.0.0",
+  "description": "Simple node http module implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aniruddha Dhumal",
+  "license": "ISC"
+}
